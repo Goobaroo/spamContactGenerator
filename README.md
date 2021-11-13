@@ -1,4 +1,4 @@
-# Spam Blocker Contact generator
+# Spam Contact Generator
 
 ## Decription
 I found that most of the spam calls I've been getting have come from my prefix with a randomly generated 4 digit subscriber number.
