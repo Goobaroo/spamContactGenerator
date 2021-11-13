@@ -1,4 +1,8 @@
 #!/bin/bash
+# Spam Blocker Contact generator
+# Date: Nov 13, 2021
+# Author: Jason McLeod
+# Repo: https://github.com/Goobaroo/spamContactGenerator
 
 # Your area code and prefix (first 3 digits of your phone number)
 PREFIX=321987
