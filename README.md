@@ -18,7 +18,7 @@ So it does take a bit of time to go through the 20 contacts and block them all, 
 
 ## Usage
 
-Modify the script with your phone number and run.
+Modify the script with your phone number.
 
 ```bash
 # Your area code and prefix (first 3 digits of your phone number)
@@ -27,9 +27,12 @@ PREFIX=321987
 PHONE=3219876540
 ```
 
+Run the script.
 ```bash
 sh generate.sh
 ```
+
+Import the 20 contact cards into your phone and then block them in the phone app on iOS.
 
 ## Things to know.
 
